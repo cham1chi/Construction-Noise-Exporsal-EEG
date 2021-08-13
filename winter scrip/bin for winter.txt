@@ -1,0 +1,8 @@
+bin 1
+pile driver sound
+{1;2}.{1}
+
+
+bin 2
+xkhz beep sound
+{1;2}.{2}

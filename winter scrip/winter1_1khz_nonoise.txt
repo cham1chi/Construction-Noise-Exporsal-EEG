@@ -1,0 +1,2 @@
+bin2_AF3	bin2_F7	bin2_F3	bin2_FC5	bin2_T7	bin2_P7	bin2_O1	bin2_O2	bin2_P8	bin2_T8	bin2_FC6	bin2_F4	bin2_F8	bin2_AF4		ERPset
+     1.612	     4.430	     3.801	     1.732	     3.169	     1.461	     2.033	     2.887	     1.301	     3.572	     2.858	     2.648	     3.892	     2.653	winter1

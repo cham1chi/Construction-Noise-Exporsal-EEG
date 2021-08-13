@@ -1,0 +1,47 @@
+ADJUST
+Automatic EEG artifacts Detector with Joint Use of Spatial and Temporal features
+
+Andrea Mognon and Marco Buiatti (2009-2014)
+
+Analyzed dataset: 
+Analysis date: 06-Jul-2021
+Analysis carried out on the 14 Independent Components
+
+> HEM - Horizontal movements
+
+Classification based on features:
+SED - Spatial eye difference (threshold=0.251037)
+MEV - Maximum epoch variance (threshold=39.063843)
+
+ICs with Horizontal eye movements:
+2   4  11
+
+>> VEM - Vertical movements
+
+Classification based on features:
+SAD - Spatial average difference (threshold=-0.517831)
+MEV - Maximum epoch variance (threshold=39.063843)
+
+ICs with Vertical eye movements:
+1   5   6  12  13
+
+>>> EB - Blinks
+
+Classification based on features:
+SAD (threshold=-0.517831)
+TK - Temporal kurtosis (threshold=0.916858)
+
+ICs with Blinks:
+1   6  10  13
+
+>>>> GD - Discontinuities
+Classification based on features:
+GDSF - Generic Discontinuities Spatial Feature (threshold=0.705677)
+MEV - Maximum epoch variance (threshold=39.063843)
+
+ICs with Generic Discontinuities:
+2   3  12
+
+Artifacted ICs (total):
+1   2   3   4   5   6  10  11  12  13
+

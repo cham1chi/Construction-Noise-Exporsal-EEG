@@ -1,0 +1,2 @@
+bin2_AF3	bin2_F3	bin2_FC5	bin2_FC6	bin2_F4	bin2_AF4		           ERPset
+    -0.800	     0.485	     0.902	     0.404	     0.405	    -0.680	grand averange code 1 (excep 1,2)
